@@ -1,4 +1,3 @@
-# trilha-html-modulo-2
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
